@@ -1,0 +1,41 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependencies and Build Directories
+node_modules
+dist
+dist-ssr
+*.local
+
+# Maven/Java Build Directories
+target/
+backend/target/
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.settings/
+.classpath
+.project
+.factorypath
+
+# Local environment files
+.env
+.env.local
+.env.*
+!.env.example
