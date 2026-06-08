@@ -10,6 +10,10 @@ Welcome to the **AI Interview Platform** (Ai_Interview_Pro), an adaptive, conver
 
 | **Dashboard Analytics** | **AI Interview Session** |
 | :---: | :---: |
+<img width="1484" height="919" alt="image" src="https://github.com/user-attachments/assets/fe5e6e78-934e-4b04-a190-dd6895d02e10" />
+<img width="1349" height="889" alt="image" src="https://github.com/user-attachments/assets/97ad3a1a-e007-4dd4-92ba-944e20cbc8b2" />
+
+
 | ![Dashboard Mockup](https://raw.githubusercontent.com/vamshikrishnakusuru/Ai_Interview_Pro/main/docs/dashboard.png) | ![Interview Session Mockup](https://raw.githubusercontent.com/vamshikrishnakusuru/Ai_Interview_Pro/main/docs/interview.png) |
 
 ---
